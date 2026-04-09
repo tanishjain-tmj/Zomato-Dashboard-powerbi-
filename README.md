@@ -1,4 +1,5 @@
 🍽️ Zomato Restaurant Analysis Dashboard
+
 📊 Project Overview
 
 This project presents an interactive Zomato Restaurant Analysis Dashboard built using Power BI. The dashboard provides insights into restaurant distribution, cuisines, ratings, and customer engagement across different countries and cities.
@@ -11,8 +12,8 @@ Understand popular cuisines and their distribution
 Evaluate customer engagement through votes and ratings
 Identify trends in online delivery and table booking
 Provide an interactive and user-friendly dashboard
-📁 Dataset Description
 
+📁 Dataset Description
 The dataset includes information such as:
 
 Restaurant details
@@ -22,10 +23,12 @@ Ratings and votes
 Online delivery availability
 Table booking availability
 Price range
+
 ⚙️ Tools & Technologies Used
 Power BI Desktop – Data visualization and dashboard creation
 Power Query Editor – Data cleaning and transformation
 Data Modeling – Relationship building between tables
+
 📌 Key Features of Dashboard
 🔹 KPI Cards
 Total Restaurants
@@ -34,19 +37,26 @@ Number of Cities
 Total Cuisines
 Total Votes
 Average Rating
+
 🔹 Visualizations
 🌍 Map Visualization
 Displays restaurant distribution across cities
+
 📊 Bar & Line Chart
 Shows cuisine count and average ratings
+
 🍕 Cuisine Analysis
 Identifies most popular cuisines
+
 🛵 Online Delivery Analysis
 Shows availability of delivery services
+
 🍽️ Table Booking Analysis
 Highlights booking trends
+
 💰 Price Range Distribution
 Shows how restaurants are distributed by pricing
+
 🎛️ Filters (Slicers)
 Year-wise filtering
 Country-wise filtering
@@ -67,8 +77,6 @@ Cities with highest restaurant concentration
 Relationship between ratings and cuisines
 Impact of online delivery and table booking
 Pricing trends across restaurants
+
 📝 Conclusion
-
 This dashboard provides a comprehensive view of restaurant data and helps in understanding customer preferences and business trends. It can be useful for business analysts, restaurant owners, and data enthusiasts.
-
-
