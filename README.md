@@ -3,7 +3,6 @@
 📊 Project Overview
 
 This project presents an interactive Zomato Restaurant Analysis Dashboard built using Power BI. The dashboard provides insights into restaurant distribution, cuisines, ratings, and customer engagement across different countries and cities.
-
 It helps users explore trends and make data-driven decisions in the food and restaurant industry.
 
 🎯 Objectives
@@ -31,11 +30,11 @@ Data Modeling – Relationship building between tables
 
 📌 Key Features of Dashboard
 🔹 KPI Cards
-Total Restaurants
-Number of Countries
-Number of Cities
-Total Cuisines
-Total Votes
+Total Restaurants,
+Number of Countries,
+Number of Cities,
+Total Cuisines,
+Total Votes,
 Average Rating
 
 🔹 Visualizations
